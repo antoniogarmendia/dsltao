@@ -1,0 +1,22 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.dsltao.project</groupId>
+    <artifactId>org.dsltao.project.bundles</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>org.dsltao.project</groupId>
+        <artifactId>org.dsltao.project.root</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
+    <modules>
+        <module>org.mondo.dsl</module>
+        <module>org.mondo.editor.extensionpoints</module>
+        <module>org.mondo.editor.analysis.graphiti</module>
+        <module>org.mondo.editor.graphiti</module>
+        <module>org.mondo.editor.perspective</module>       
+        <module>org.mondo.editor.ui</module> 
+    </modules>
+</project>

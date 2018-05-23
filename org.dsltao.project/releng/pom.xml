@@ -1,0 +1,18 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.dsltao.project</groupId>
+    <artifactId>org.dsltao.project.releng</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>org.dsltao.project</groupId>
+        <artifactId>org.dsltao.project.root</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
+    <modules>
+        <module>org.dsltao.update</module>
+        <module>org.dsltao.target</module>
+    </modules>
+</project>

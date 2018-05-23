@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?><target name="org.dsltao.target" sequenceNumber="6">
+<locations>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.graphiti.export.feature.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.export.feature.source.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.feature.examples.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.feature.examples.source.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.feature.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.feature.source.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.feature.tools.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.feature.tools.source.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.sdk.feature.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.sdk.feature.source.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.sdk.plus.feature.feature.group" version="0.14.0.201705161212"/>
+<unit id="org.eclipse.graphiti.sdk.plus.feature.source.feature.group" version="0.14.0.201705161212"/>
+<repository location="http://download.eclipse.org/graphiti/updates/0.14.0"/>
+</location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.equinox.sdk.feature.group" version="3.13.4.v20180322-2228"/>
+<unit id="org.eclipse.gef.dot.ui.feature.group" version="5.0.2.201711130301"/>
+<unit id="org.eclipse.gef.zest.doc.feature.group" version="5.0.2.201711130301"/>
+<unit id="org.eclipse.gef.zest.fx.feature.group" version="5.0.1.201711130301"/>
+<unit id="org.eclipse.gef.zest.fx.jface.feature.group" version="5.0.2.201711130301"/>
+<unit id="org.eclipse.gef.zest.fx.jface.source.feature.group" version="5.0.2.201711130301"/>
+<unit id="org.eclipse.gef.zest.fx.source.feature.group" version="5.0.1.201711130301"/>
+<unit id="org.eclipse.gef.zest.fx.ui.feature.group" version="5.0.2.201711130301"/>
+<unit id="org.eclipse.gef.zest.fx.ui.source.feature.group" version="5.0.2.201711130301"/>
+<unit id="org.eclipse.gef.zest.sdk.feature.group" version="5.0.2.201711130301"/>
+<unit id="org.eclipse.ocl.all.feature.group" version="5.3.0.v20170522-1736"/>
+<unit id="org.eclipse.ocl.all.sdk.feature.group" version="5.3.0.v20170607-1133"/>
+<unit id="org.eclipse.ocl.core.sdk.feature.group" version="5.3.0.v20170522-1736"/>
+<unit id="org.eclipse.ocl.doc.feature.group" version="3.7.0.v20170607-1133"/>
+<unit id="org.eclipse.ocl.edit.feature.group" version="5.1.0.v20170120-1018"/>
+<unit id="org.eclipse.ocl.examples.classic.feature.group" version="5.3.0.v20170607-1133"/>
+<unit id="org.eclipse.ocl.examples.feature.group" version="6.3.0.v20170613-1432"/>
+<unit id="org.eclipse.ocl.examples.unified.feature.group" version="4.2.0.v20170613-1432"/>
+<unit id="org.eclipse.ocl.feature.group" version="3.7.0.v20170522-1736"/>
+<unit id="org.eclipse.ocl.ui.feature.group" version="2.2.0.v20170120-1018"/>
+<unit id="org.eclipse.ocl.uml.feature.group" version="5.3.0.v20170522-1736"/>
+<unit id="org.eclipse.ocl.unified.core.feature.group" version="1.3.0.v20170613-1432"/>
+<unit id="org.eclipse.ocl.unified.ui.feature.group" version="1.3.0.v20170613-1432"/>
+<unit id="org.eclipse.sdk.ide" version="4.7.3.M20180330-0640"/>
+<unit id="org.eclipse.zest.feature.group" version="1.7.0.201606061308"/>
+<unit id="org.eclipse.zest.sdk.feature.group" version="1.7.0.201606061308"/>
+<unit id="org.eclipse.zest.source.feature.group" version="1.7.0.201606061308"/>
+<repository location="http://download.eclipse.org/releases/oxygen"/>
+</location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.apache.bval.source" version="0.3.0.v201205161050"/>
+<unit id="org.apache.commons.beanutils" version="1.8.0.v201205091237"/>
+<unit id="org.apache.commons.beanutils.source" version="1.8.0.v201205091237"/>
+<unit id="org.apache.commons.collections" version="3.2.2.v201511171945"/>
+<unit id="org.apache.commons.collections.source" version="3.2.2.v201511171945"/>
+<unit id="org.apache.commons.compress" version="1.6.0.v201310281400"/>
+<unit id="org.apache.commons.compress.source" version="1.6.0.v201310281400"/>
+<unit id="org.apache.commons.io" version="2.2.0.v201405211200"/>
+<unit id="org.apache.commons.io.source" version="2.2.0.v201405211200"/>
+<unit id="org.apache.commons.lang3" version="3.1.0.v201403281430"/>
+<unit id="org.apache.commons.math3" version="3.5.0.v20160301-1110"/>
+<unit id="org.apache.commons.math3.source" version="3.5.0.v20160301-1110"/>
+<repository location="http://download.eclipse.org/tools/orbit/downloads/drops/R20180330011457/repository"/>
+</location>
+</locations>
+</target>

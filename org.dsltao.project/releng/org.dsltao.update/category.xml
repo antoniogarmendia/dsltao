@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.mondo.editor.feature_0.3.15.qualifier.jar" id="org.mondo.editor.feature" version="0.3.15.qualifier">
+      <category name="miso"/>
+   </feature>
+   <category-def name="miso" label="miso"/>
+</site>
